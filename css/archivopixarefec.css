@@ -454,4 +454,19 @@ div.footer div.copy{
         --border: white;
 
     }
+    .cabecera .centrado .menu .item1 .submenu1{
+        color: white;
+    }
+    .cabecera .centrado .menu .item2 .submenu2{
+        color: white;
+    }
+    .cabecera .centrado .menu .item3 .submenu3{
+        color: white;
+    }
+    .cabecera .centrado .menu .item4 .submenu4{
+        color: white;
+    }
+    .cabecera .centrado .menu .item5 .submenu5{
+        color: white;
+    }
 }
