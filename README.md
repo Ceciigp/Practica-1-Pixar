@@ -1,2 +1,2 @@
 # Pixar
- Web de Pixar como primera entrega
+ Web de Pixar como práctica a entregar para curso de Desarrollo Web en Bejob. Web con Custom Properties y adaptada para Darkmode.
