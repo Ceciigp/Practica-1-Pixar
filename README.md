@@ -4,7 +4,6 @@
  # Construido con
 [HTML5]
 [CSS]
-[SASS]
-[VanillaJS]
+
 # Autores
 Cecii Garcia

@@ -353,4 +353,5 @@ MigrationBackup/
 .ionide/
 
 #  Git Documents
- *.git
+ *.gitattributes
+ *.gitignore
