@@ -357,5 +357,6 @@ MigrationBackup/
 # ------------------------
 
 *.config
+.gitattributes
 *.gitattributes
 
