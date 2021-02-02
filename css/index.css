@@ -48,7 +48,7 @@ body{
     
      
 }
-.cabecera .centrado{
+.centrado{
     width: 85%;
     margin: auto;
 
@@ -63,30 +63,30 @@ body{
     align-content: initial;
 }
 
-.cabecera .centrado .logo{
+.logo{
     width: 100%;
     max-width: 5.57em;    
 }
 
-.cabecera .centrado .menu .a:hover{
+.menu .a:hover{
     color: var(--gris);
  }
- .cabecera .centrado .menu .asub:hover{
+.menu .asub:hover{
      color: var(--gris);
 }
-.cabecera .centrado .fa-bars{
+.centrado .fa-bars{
     display: none;
 }
-.cabecera .centrado .menu .a{
+.menu .a{
     margin: 0 0 0 24px; 
 }
 
 
-.cabecera .centrado .nav{
+.nav{
     width: calc( 90% - 9em );
     margin-right: 2.5em;
 }
-.cabecera .centrado .nav .menu{
+.nav .menu{
     width: 100%;
 
     display: flex;
@@ -96,7 +96,7 @@ body{
     align-content: initial;
 }
 
-.cabecera .centrado .menu .item1{
+.item1{
     position:relative;
     padding: 2.7em 0;
     
@@ -107,7 +107,7 @@ body{
     align-content: initial;
 }
 
-.cabecera .centrado .menu .item1 .submenu1{
+.item1 .submenu1{
     position:absolute;
     width: 170%;
     color: var(--blanco);
@@ -122,18 +122,18 @@ body{
     
     
 }
-.cabecera .centrado .menu .item1 .lisub{
+.item1 .lisub{
     width: 100%;
     margin: 5px 0; 
 }
-.cabecera .centrado .menu .item1:hover .submenu1{
+.item1:hover .submenu1{
     opacity: 1;
     pointer-events: auto;
     transform: translateY(0%);
 }
 
 
-.cabecera .centrado .menu .item2{
+.item2{
     position:relative;
     padding: 2.7em 0;
     
@@ -143,7 +143,7 @@ body{
     align-items: center;
     align-content: initial;
 }
-.cabecera .centrado .menu .item2 .submenu2{
+.item2 .submenu2{
     position:absolute;
     width: 180%;
     color: var(--blanco);
@@ -156,18 +156,18 @@ body{
     transition: all .4s ease;
     pointer-events: none;
 }
-.cabecera .centrado .menu .item2 .lisub{
+.item2 .lisub{
     width: 100%;
     margin: 5px 0; 
 }
-.cabecera .centrado .menu .item2:hover .submenu2{
+.item2:hover .submenu2{
     opacity: 1;
     pointer-events: auto;
     transform: translateY(0%);
 }
 
 
-.cabecera .centrado .menu .item3{
+.item3{
     position:relative;
     padding: 2.7em 0;
     
@@ -177,7 +177,7 @@ body{
     align-items: center;
     align-content: initial;
 }
-.cabecera .centrado .menu .item3 .submenu3{
+.item3 .submenu3{
     position:absolute;
     width: 200%;
     color: var(--blanco);
@@ -190,18 +190,18 @@ body{
     transition: all .4s ease;
     pointer-events: none;
 }
-.cabecera .centrado .menu .item3 .lisub{
+.item3 .lisub{
     width: 100%;
     margin: 5px 0; 
 }
-.cabecera .centrado .menu .item3:hover .submenu3{
+.item3:hover .submenu3{
     opacity: 1;
     pointer-events: auto;
     transform: translateY(0%);
 }
 
 
-.cabecera .centrado .menu .item4{
+.item4{
     position:relative;
     padding: 2.7em 0;
     
@@ -211,7 +211,7 @@ body{
     align-items: center;
     align-content: initial;
 }
-.cabecera .centrado .menu .item4 .submenu4{
+.item4 .submenu4{
     position:absolute;
     width: 315%;
     color: var(--blanco);
@@ -224,18 +224,18 @@ body{
     transition: all .4s ease;
     pointer-events: none;
 }
-.cabecera .centrado .menu .item4 .lisub{
+.item4 .lisub{
     width: 100%;
     margin: 5px 0; 
 }
-.cabecera .centrado .menu .item4:hover .submenu4{
+.item4:hover .submenu4{
     opacity: 1;
     pointer-events: auto;
     transform: translateY(0%);
 }
 
 
-.cabecera .centrado .menu .item5{
+.item5{
     position:relative;
     padding: 2.7em 0;
     
@@ -245,7 +245,7 @@ body{
     align-items: center;
     align-content: initial;
 }
-.cabecera .centrado .menu .item5 .submenu5{
+.item5 .submenu5{
     position:absolute;
     width: 230%;
     color: var(--blanco);
@@ -258,11 +258,11 @@ body{
     transition: all .4s ease;
     pointer-events: none;
 }
-.cabecera .centrado .menu .item5 .lisub{
+.item5 .lisub{
     width: 100%;
     margin: 5px 0; 
 }
-.cabecera .centrado .menu .item5:hover .submenu5{
+.item5:hover .submenu5{
     opacity: 1;
     pointer-events: auto;
     transform: translateY(0%);

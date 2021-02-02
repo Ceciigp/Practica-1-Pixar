@@ -352,6 +352,10 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-#  Git Documents
- *.gitattributes
- *.gitignore
+# ------------------------
+# BEGIN Whitelisted files
+# ------------------------
+
+*.config
+*.gitattributes
+
